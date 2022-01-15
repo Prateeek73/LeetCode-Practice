@@ -1,0 +1,25 @@
+type(object): It returns the class type of an object.
+
+range(start=0, stop, step=1): Returns a sequence of numbers.
+enumerate(iterable, start=0):  Adds a counter to an iterable and returns it.
+
+accumulate(p [,func]): p0, p0+p1, p0+p1+p2, …
+sum(iterable, start): Sum of numbers in the list.
+map(fun, iterable): 
+zip(*iterators): 
+
+
+extend(): Adds multiple elements to a list.
+count(): Returns the number of elements with the required value.
+reverse(): Reverses the order of the list.
+sort(): Sorts the list in ascending order.
+clear(): Removes all the elements from the list.
+pop(): Removes the element at the required position.
+remove(): Removes the primary item with the desired value.
+copy():  Returns a duplicate of the list.
+insert(): Adds a component at the required position.
+index(): Returns the first appearance of a particular value.
+append(): Adds one element to a list.
+max(list): It returns an item from the list with a max value.
+min(list): It returns an item from the list with a min value.
+len(list): It gives the overall length of the list.
